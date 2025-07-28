@@ -2,3 +2,4 @@ name = "v20250723"
 main = "_worker.js"
 compatibility_date = "2025-07-23"
 keep_vars = true
+keep_bindings = true
